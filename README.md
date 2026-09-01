@@ -1,6 +1,18 @@
-# Nerfies
+# Planning for Multi-Robot Pick and Place with Graph Neural Networks and Reinforcement Learning
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+Source code for the project website.
+
+## View locally
+
+```
+git clone https://github.com/wimpublic/graph-pnp
+cd graph-pnp
+python3 -m http.server
+```
+
+Then open http://localhost:8000 in a browser.
+
+This site is based on the [Nerfies website](https://nerfies.github.io) template. If you find it useful please cite:
 
 If you find Nerfies useful for your work please cite:
 ```
