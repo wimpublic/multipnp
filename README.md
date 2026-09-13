@@ -1,12 +1,12 @@
-# Planning for Multi-Robot Pick and Place with Graph Neural Networks and Reinforcement Learning
+# MultiPnP: Learning Task Allocation, Scheduling, and Motion Planning for Multi-Robot Pick-and-Place
 
 Source code for the project website.
 
 ## View locally
 
 ```
-git clone https://github.com/wimpublic/graph-pnp
-cd graph-pnp
+git clone https://github.com/wimpublic/multipnp
+cd multipnp
 python3 -m http.server
 ```
 
